@@ -1,6 +1,6 @@
 # pooledioutil
 
-[![GoDoc](https://godoc.org/github.com/theothertomelliott/pooledioutil)](https://godoc.org/github.com/theothertomelliott/pooledioutil)
+[![GoDoc](https://godoc.org/github.com/theothertomelliott/pooledioutil?status.svg)](https://godoc.org/github.com/theothertomelliott/pooledioutil)
 
 Package pooledioutil provides a re-implementation of some functions
 from the ioutil package.
